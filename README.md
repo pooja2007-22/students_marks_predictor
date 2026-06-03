@@ -23,9 +23,3 @@ A machine learning project that predicts a student’s expected marks based on a
 3. The best-performing model is saved using `joblib`
 4. Streamlit app loads the model and takes user input to predict marks
 
-## Usage
-```bash
-git clone <repo-url>
-cd student-marks-predictor
-pip install -r requirements.txt
-streamlit run app.py
