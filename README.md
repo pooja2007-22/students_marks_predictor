@@ -11,7 +11,7 @@ A machine learning project that predicts a student’s expected marks based on a
 - Model evaluation with metrics: MAE, RMSE, R² Score
 - Clean dataset preprocessing and feature engineering
 
-## Tech Stack
+## MODULE LIST
 - **Language**: Python 3.10+
 - **ML Libraries**: Scikit-learn, Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
