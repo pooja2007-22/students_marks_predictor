@@ -1,0 +1,92 @@
+=========================================
+USER IDENTIFICATION
+=========================================
+
+1. Student
+   - Enters academic details
+   - Provides attendance percentage
+   - Provides previous semester marks
+   - Requests mark prediction
+   - Views predicted results
+
+2. Admin
+   - Manages student records
+   - Manages dataset
+   - Trains and updates ML model
+   - Views prediction history
+   - Generates reports
+
+=========================================
+MODULE IDENTIFICATION
+=========================================
+
+Module 1: User Authentication
+--------------------------------
+Functions:
+- Register User
+- Login User
+- Logout User
+
+Module 2: Student Data Entry
+--------------------------------
+Functions:
+- Enter Student Information
+- Update Student Details
+- Validate Input Data
+
+Module 3: Dataset Management
+--------------------------------
+Functions:
+- Upload Dataset
+- View Dataset
+- Modify Dataset
+- Delete Dataset
+
+Module 4: Marks Prediction
+--------------------------------
+Functions:
+- Load Trained Model
+- Accept Input Parameters
+- Predict Student Marks
+- Display Prediction Result
+
+Module 5: Prediction History
+--------------------------------
+Functions:
+- Store Prediction Results
+- View Previous Predictions
+- Search Prediction Records
+
+Module 6: Report Generation
+--------------------------------
+Functions:
+- Generate Student Report
+- Generate Prediction Report
+- Export Reports (PDF/Excel)
+
+=========================================
+SYSTEM ACTORS
+=========================================
+
+Actor 1 : Student
+Actor 2 : Admin
+
+=========================================
+INPUTS
+=========================================
+
+- Internal Marks
+- Attendance Percentage
+- Assignment Marks
+- Previous Semester Marks
+- Study Hours
+
+=========================================
+OUTPUTS
+=========================================
+
+- Predicted Final Marks
+- Performance Category
+  (Excellent / Good / Average / Poor)
+- Prediction Report
+=========================================
