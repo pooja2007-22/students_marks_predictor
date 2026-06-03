@@ -4,7 +4,7 @@ Machine Learning model to predict student marks based on study hours, attendance
 
 A machine learning project that predicts a student’s expected marks based on academic and behavioral inputs like study hours, attendance, previous test scores, and extracurricular activities.
 
-## Features
+## Project Object
 - Predicts marks for individual students using trained regression/classification models
 - Handles multiple input features: study time, sleep hours, attendance %, previous marks, etc.
 - Interactive web app built with Streamlit for real-time predictions
